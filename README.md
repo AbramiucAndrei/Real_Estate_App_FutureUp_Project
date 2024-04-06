@@ -27,6 +27,7 @@ CarouselOptions(
                       aspectRatio: 4/3,
                       viewportFraction: 0.5,
                       enlargeCenterPage: true,
-                      initialPage: widget.imgPathIndex // in order to show the image coresponding to the AD when clicking on it
-                    )
+                      initialPage: widget.imgPathIndex // in order to show the image coresponding
+                                                      //to the AD when clicking on it
+                    )    
 ```
