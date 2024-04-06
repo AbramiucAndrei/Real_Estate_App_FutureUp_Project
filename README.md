@@ -12,6 +12,7 @@
   - //Added this in order for the buttons to be more visible on a white background color (see Item Detail Page)
 
 -In *house_ad_widget_desk*:
+  - Changer the main Column crossAxisAlignment to ``` CrossAxisAlignment.center ```
   - Changed the height and width of the container to 800x600 to fit most of the screens
   - Changed the borderRadius to 220 in order to have a more aesthetic ad image
   - and  "fit: BoxFit.fitWidth"
