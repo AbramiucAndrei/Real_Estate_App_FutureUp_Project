@@ -1,7 +1,7 @@
 # real_estate_futureup_copy
 
 
-## Modificari:
+## Mods:
 -In *home_desktop_page.dart*:
   - Added a new filter named "Favourites"
   - In funtion "isFiltered" I added an extra condition to check if the "house" is saved in Favourites
