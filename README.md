@@ -19,12 +19,13 @@
 -In *item_detail_page_desk*:
   - ADDED "fit: BoxFit.fitWidth" in CarouselSlider -> items
   - In both of "CustomButtonWidget" I added "borderColor: Colors.black"
-  - 
-  - ADDED          CarouselOptions(
+  - ADDED
+```
+CarouselOptions(
                       height: screenHeight*0.7,
                       aspectRatio: 4/3,
                       viewportFraction: 0.5,
                       enlargeCenterPage: true,
                       initialPage: widget.imgPathIndex // in order to show the image coresponding to the add when clicking on it
                     )
-                     
+```
