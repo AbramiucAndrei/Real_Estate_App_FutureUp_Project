@@ -9,4 +9,4 @@
 
 -In *custom_button.dart*:
   - Added a new optional parameter named "borderColor" , defaul set to Colors.white
-  //Added this in order for the buttons to be more visible on a white background color (see Item Detail Page)
+  - //Added this in order for the buttons to be more visible on a white background color (see Item Detail Page)
